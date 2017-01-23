@@ -1,6 +1,7 @@
-package com.somewan.exercise;
+package com.somewan.log4j;
 
 
+import com.somewan.exercise.User;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
